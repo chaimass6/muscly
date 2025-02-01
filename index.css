@@ -22,7 +22,6 @@ body {
   background-color: #70af85;
   transform: scale(1.05);
 }
-
 /* Caret styles */
 span.caret {
   position: absolute;
