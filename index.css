@@ -17,7 +17,6 @@ body {
   padding: 10px 20px;
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
-
 .btn.dropdown-toggle:hover {
   background-color: #70af85;
   transform: scale(1.05);
